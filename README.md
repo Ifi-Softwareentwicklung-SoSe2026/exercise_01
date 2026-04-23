@@ -10,12 +10,6 @@ edit: true
 date: 2026-04-23
 
 icon: img/TUBAF_Logo_blau.svg
-logo: 
-
-attribute: 
-
-attribute: 
-
 comment:  Übung Softwareentwicklung 01
 
 link:   https://raw.githubusercontent.com/vgoehler/LiaScript_CSS_Provider/refs/heads/main/dist/university.css
