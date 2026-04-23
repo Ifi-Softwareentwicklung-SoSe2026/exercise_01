@@ -18,6 +18,8 @@ tags: [ Sommersemester2026, Softwareentwicklung, Übung01]
 
 -->
 
+[![LiaScript Course](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-Softwareentwicklung-SoSe2026/exercise_01/refs/heads/main/README.md)
+
 #  Aufgabe 01
 
 Softwareentwicklung SoSe2026
