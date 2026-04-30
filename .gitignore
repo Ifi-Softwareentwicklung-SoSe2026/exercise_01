@@ -384,3 +384,4 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+Debug/
