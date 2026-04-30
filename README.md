@@ -2,7 +2,7 @@
 
 author:   Volker Göhler
 email:    volker.goehler@informatik.tu-freiberg.de
-version:  0.0.1
+version:  0.0.2
 language: de
 narrator: Deutsch Female
 
@@ -28,7 +28,7 @@ Softwareentwicklung SoSe2026
 Bearbeitungszeitraum
 ====================
 
-*27. April - 03. Mai 2026*
+*27. April - 03. Mai 2026* (Start am 29. April 2026 - Ende am 10. Mai 2026)
 
 ## Offene Fragen aus Aufgabe 00
 
